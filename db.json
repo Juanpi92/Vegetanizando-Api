@@ -88,5 +88,13 @@
       "portion": "Para 1 pessoa",
       "price": 35.0
     }
+  ],
+  "compras": [],
+  "admin": [
+    {
+      "user": "Juanpi",
+      "email": "juan.urgelles92@gmail.com",
+      "password": "Juanpi22"
+    }
   ]
 }
