@@ -119,6 +119,64 @@
     ],
     "totalCart": 218,
     "id": 1
+  },
+  {
+    "usuario": "Gustavo resende",
+    "cpf": "069.488.017-97",
+    "address": "Rua General Cannabaro 202. Maracña. Rio de Janeiro",
+    "cart": [
+      {
+        "id": 2,
+        "src": "./imagenes/products/bebidadegengibreefrutas.jpg",
+        "name": "Bebida refrescante",
+        "portion": "500ml",
+        "price": 20,
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "src": "./imagenes/products/minicarolinadecanela.webp",
+        "name": "Mini Carolina",
+        "portion": "10 unidades",
+        "price": 12,
+        "quantity": 1
+      },
+      {
+        "id": 7,
+        "src": "./imagenes/products/batatarecheada.webp",
+        "name": "Batata Recheada",
+        "portion": "Para 2 pessoas",
+        "price": 45,
+        "quantity": 1
+      }
+    ],
+    "totalCart": 77,
+    "id": 2
+  },
+  {
+    "usuario": "Pedro Moura",
+    "cpf": "069.487.018-97",
+    "address": "Rua General Cannabaro 210. Maracña. Rio de Janeiro",
+    "cart": [
+      {
+        "id": 2,
+        "src": "./imagenes/products/bebidadegengibreefrutas.jpg",
+        "name": "Bebida refrescante",
+        "portion": "500ml",
+        "price": 20,
+        "quantity": "3"
+      },
+      {
+        "id": 1,
+        "src": "./imagenes/products/bebibdarefrescantetangerina.jpg",
+        "name": "Bebida refrescante",
+        "portion": "500ml",
+        "price": 15,
+        "quantity": "3"
+      }
+    ],
+    "totalCart": 105,
+    "id": 3
   }
 ],
   "admin": [
