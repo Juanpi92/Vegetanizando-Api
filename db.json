@@ -188,9 +188,16 @@
   ],
   "admin": [
     {
+      "id":1,
       "user": "Juanpi",
       "email": "juan.urgelles92@gmail.com",
       "password": "Juanpi22"
+    },
+     {
+      "id":2,
+      "user": "Pedro",
+      "email": "plfmoura@gmail.com",
+      "password": "LoveBujao"
     }
   ]
 }
